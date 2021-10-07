@@ -1,5 +1,5 @@
 #header1{
-    background-image: url(../images/bg_shape.png);
+    background-image: url(bg_shape.png);
     background-position-x: center;
     background-repeat: no-repeat;
     padding-bottom: 150px;
@@ -31,7 +31,7 @@ nav a img{
     color: lightslategray;
 }
 .col button{
-    background-image: url(../images/grad.jpg);
+    background-image: url(grad.jpg);
     border: none;
     width: 200px;
     padding: 10px;
