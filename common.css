@@ -11,7 +11,7 @@ footer ul{
     list-style-type: none;
 }
 footer{
-    background-image: url(../images/banner-bg.png);
+    background-image: url(banner-bg.png);
     padding: 50px;;
     position: static;
     left: 0;
@@ -21,7 +21,7 @@ footer{
 
 }
 #header{
-    background-image: url(../images/banner-bg.png);
+    background-image: url(banner-bg.png);
     background-position-x: center;
     background-repeat: no-repeat;
 }
@@ -36,7 +36,7 @@ nav li a:hover{
  
 }
 #header{
-    background-image: url(../images/banner-bg.png);
+    background-image: url(banner-bg.png);
     background-position-x: center;
     background-repeat: no-repeat;
 }
