@@ -1,0 +1,63 @@
+#header1{
+    background-image: url(../images/bg_shape.png);
+    background-position-x: center;
+    background-repeat: no-repeat;
+    padding-bottom: 150px;
+}
+
+#quote{
+    padding-top: 50px;
+    text-align: center;
+    color: white;
+}
+body{
+    overflow-x: hidden;
+}
+nav a img{
+    padding-left:80px;
+}
+
+#img-div img{
+    margin-top: 50px;;
+}
+.row{
+    padding-top: 50px;
+}
+.col h2{
+    margin-top: 50px;
+    color: navy;
+}
+.col p{
+    color: lightslategray;
+}
+.col button{
+    background-image: url(../images/grad.jpg);
+    border: none;
+    width: 200px;
+    padding: 10px;
+    margin-top: 20px;
+}
+.bi{
+    font-size: 50px;
+    text-align: center;
+}
+.col-md-2{
+    
+    text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 10px;
+    border:none;
+}
+.feature{
+    box-shadow: 5px 10px 8px #888888;
+}
+.feature:hover {
+    -ms-transform: scale(1.0); /* IE 9 */
+    -webkit-transform: scale(0.5); /* Safari 3-8 */
+    transform: scale(1.1); 
+  }
+.bi-patch-check-fill{
+    font-size: 20px;
+    color:orange
+}

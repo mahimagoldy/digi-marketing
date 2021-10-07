@@ -1,0 +1,39 @@
+#main{
+    margin-top: 50px;
+    margin-left: 50px;
+    padding: 50px;;
+    
+}
+#main-2{
+    margin-left: 50px;
+}
+.image {
+   
+    width: 100%;
+    height: auto;
+  }
+  
+  .overlay {
+    position: absolute; 
+    bottom: 0; 
+    background: rgb(39, 4, 121);
+    background: rgba(15, 7, 136, 0.952); /* Black see-through */
+    color: #f1f1f1; 
+    width: 91.5%;
+    transition: .5s ease;
+    opacity:0;
+    color: white;
+    font-size: 20px;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .col-lg-4:hover .overlay {
+    opacity: 1;
+  }
+  #team{
+      padding: 50px;;
+  }
+  #tabs{
+      padding-bottom: 50px;
+  }
